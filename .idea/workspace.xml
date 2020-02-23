@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4fba6d4-80b4-4914-8f07-9312d7712672" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ItemPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/actions/setActions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/reducer/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="f4fba6d4-80b4-4914-8f07-9312d7712672" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,14 +76,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582436542502</updated>
-      <workItem from="1582436544771" duration="10375000" />
+      <workItem from="1582436544771" duration="10644000" />
     </task>
+    <task id="LOCAL-00001" summary="First and hopefully last">
+      <created>1582447813762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582447813762</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First and hopefully last" />
+    <option name="LAST_COMMIT_MESSAGE" value="First and hopefully last" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1582447811204">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1582447811204" />
     <state width="1014" height="168" key="GridCell.Tab.0.bottom" timestamp="1582443472828">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -112,6 +116,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1014" height="168" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1582443472828" />
+    <state x="392" y="132" key="Vcs.Push.Dialog.v2" timestamp="1582447837743">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="392" y="132" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1582447837743" />
     <state x="208" y="177" key="run.anything.popup" timestamp="1582443493046">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
